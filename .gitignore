@@ -1,0 +1,8 @@
+# Ignore the entire ressources folder
+ressources/
+
+# Ignore the specific photo_metadata.csv file in the data folder
+data/photo_metadata.csv
+
+#ignore elastic
+elastic/
